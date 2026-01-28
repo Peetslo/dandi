@@ -7,7 +7,7 @@ const navItems = [
   { href: '/dashboards', label: 'Overview', icon: 'home' },
   { href: '/dashboards/assistant', label: 'Research Assistant', icon: 'sparkle' },
   { href: '/dashboards/reports', label: 'Research Reports', icon: 'report' },
-  { href: '/dashboards/playground', label: 'API Playground', icon: 'code' },
+  { href: '/playground', label: 'API Playground', icon: 'code' },
   { href: '/dashboards/invoices', label: 'Invoices', icon: 'invoice' },
   { href: '#', label: 'Documentation', icon: 'doc', external: true },
 ];
